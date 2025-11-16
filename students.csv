@@ -1,0 +1,1001 @@
+student_id,first_name,last_name,gender,class_level,gpa,age,major
+1,Michael,Martinez,Female,Freshman,1.29,28,Computer Science
+2,Christopher,Smith,Other,Freshman,3.19,20,Biology
+3,Laura,Stephens,Female,Sophomore,3.59,25,Computer Science
+4,Charles,Bryant,Female,Junior,3.67,18,Business
+5,Daniel,Hopkins,Male,Freshman,1.75,17,History
+6,Nicole,Hodge,Other,Junior,3.43,30,Chemistry
+7,Amy,Johnson,Other,Junior,0.72,30,Biology
+8,Jill,Bonilla,Female,Senior,3.96,26,Mathematics
+9,Matthew,Martin,Other,Junior,2.05,27,History
+10,Arthur,Turner,Female,Sophomore,1.44,25,Business
+11,Edward,Woodard,Male,Junior,1.69,27,English
+12,Robin,Jones,Male,Junior,1.65,18,History
+13,Larry,Collins,Other,Senior,3.87,27,Computer Science
+14,Christopher,Barber,Male,Freshman,0.53,20,Biology
+15,Bryan,Whitaker,Other,Freshman,0.15,23,Mathematics
+16,Jennifer,Larson,Other,Freshman,0.7,18,Mathematics
+17,Thomas,Diaz,Male,Freshman,0.94,18,English
+18,Julie,Beck,Female,Sophomore,1.59,18,Business
+19,Donald,Joseph,Male,Sophomore,0.19,18,History
+20,Anthony,Anderson,Female,Sophomore,2.07,17,Computer Science
+21,Michael,Jones,Other,Sophomore,1.54,28,Biology
+22,Dwayne,Rodriguez,Male,Freshman,3.03,21,Chemistry
+23,Sarah,Noble,Other,Sophomore,1.24,21,English
+24,Helen,Davis,Male,Freshman,3.37,17,Business
+25,Anita,Mueller,Female,Junior,3.69,18,Business
+26,Michael,Marshall,Male,Senior,0.5,21,Business
+27,Robert,Collins,Male,Freshman,0.19,21,Chemistry
+28,Gina,Sandoval,Female,Sophomore,0.14,22,Biology
+29,Deanna,Adams,Female,Freshman,1.26,20,Psychology
+30,Sergio,Weber,Other,Junior,3.25,28,Business
+31,Karen,Henderson,Male,Freshman,3.57,20,English
+32,Cheryl,Berry,Male,Senior,0.93,30,Mathematics
+33,Wesley,Mitchell,Male,Senior,3.12,29,Chemistry
+34,Mary,Matthews,Other,Junior,2.9,28,English
+35,Christian,Gordon,Female,Freshman,0.68,18,Biology
+36,Tiffany,Stevens,Other,Freshman,0.6,23,Psychology
+37,Karen,Cohen,Female,Senior,0.54,27,Mathematics
+38,David,Juarez,Other,Junior,1.0,30,Mathematics
+39,Henry,Marshall,Female,Freshman,2.09,21,English
+40,Thomas,Delacruz,Other,Junior,3.24,17,Biology
+41,Theresa,Douglas,Male,Junior,2.67,24,Chemistry
+42,Jacqueline,Sanders,Female,Junior,3.37,29,Computer Science
+43,Kayla,Mayo,Other,Sophomore,1.59,18,Business
+44,Robin,Garcia,Other,Junior,0.37,21,English
+45,Wendy,Gates,Other,Sophomore,0.09,22,Business
+46,Kevin,Chavez,Other,Junior,3.71,23,Chemistry
+47,Shawn,Lyons,Other,Junior,0.71,29,English
+48,Brandon,Jones,Male,Freshman,2.47,19,Mathematics
+49,Kimberly,Warren,Male,Freshman,3.92,30,Psychology
+50,Leslie,Coleman,Male,Junior,2.15,25,Computer Science
+51,Edward,Wagner,Female,Freshman,0.04,18,Chemistry
+52,Jacqueline,Martin,Female,Freshman,1.27,25,Chemistry
+53,Jacob,Lee,Other,Freshman,2.83,29,Business
+54,Jeffrey,Whitaker,Male,Sophomore,0.46,19,Mathematics
+55,Gregory,Gonzalez,Other,Sophomore,2.88,25,Psychology
+56,Nancy,Lane,Other,Sophomore,1.01,22,History
+57,Brent,Santiago,Female,Junior,2.9,19,History
+58,Philip,Kelley,Other,Freshman,3.75,29,Psychology
+59,Dustin,Ferguson,Female,Senior,1.41,30,Chemistry
+60,Jon,Smith,Male,Freshman,2.11,22,English
+61,Jennifer,Williams,Other,Freshman,0.31,18,Biology
+62,Veronica,Grant,Male,Junior,2.59,24,Computer Science
+63,Robert,Jones,Male,Sophomore,1.47,25,English
+64,Robert,Gomez,Male,Junior,1.62,23,Business
+65,Andrea,Thompson,Male,Senior,2.59,19,Chemistry
+66,Philip,Dean,Other,Freshman,3.9,30,Mathematics
+67,Kenneth,Rollins,Female,Senior,2.35,18,Mathematics
+68,Thomas,Jordan,Female,Senior,1.3,30,Chemistry
+69,Lorraine,Montes,Male,Sophomore,3.98,27,English
+70,Joshua,Simon,Other,Sophomore,3.48,19,Psychology
+71,Bryan,Pena,Other,Senior,3.11,22,Mathematics
+72,Michael,Reynolds,Other,Junior,3.71,18,English
+73,Brittney,Calderon,Male,Junior,1.25,20,English
+74,Brianna,Sullivan,Female,Junior,3.0,17,Mathematics
+75,Thomas,Kim,Female,Sophomore,3.8,30,Biology
+76,Brian,Conner,Other,Junior,3.04,30,Chemistry
+77,Christina,Hudson,Other,Junior,0.19,24,Biology
+78,Taylor,Leonard,Other,Sophomore,1.4,20,Computer Science
+79,Kimberly,Gilbert,Other,Sophomore,1.79,18,Psychology
+80,Julie,Mclean,Other,Freshman,1.31,29,Biology
+81,Elizabeth,Fletcher,Other,Junior,0.95,29,Computer Science
+82,Kristie,Rosales,Male,Junior,3.31,20,Chemistry
+83,Diane,Browning,Other,Sophomore,3.78,29,History
+84,Lucas,Sosa,Male,Sophomore,0.29,27,History
+85,Eric,Wagner,Other,Sophomore,3.06,29,Psychology
+86,Victoria,Mitchell,Other,Junior,0.91,17,English
+87,Noah,Thomas,Female,Junior,2.21,22,Computer Science
+88,Andrea,Hoover,Male,Freshman,1.68,27,Computer Science
+89,Stephen,Chapman,Other,Freshman,1.19,23,Business
+90,Kristy,Herman,Female,Junior,1.82,24,Biology
+91,Laura,Martinez,Female,Sophomore,2.19,17,Psychology
+92,Charles,Martinez,Female,Freshman,1.01,20,Business
+93,Robert,Rodriguez,Other,Junior,1.23,27,Chemistry
+94,Destiny,Burton,Male,Sophomore,0.93,26,Business
+95,Jackson,Ibarra,Female,Freshman,3.18,29,Biology
+96,Kayla,Martin,Other,Freshman,3.34,29,History
+97,David,Fitzpatrick,Female,Sophomore,3.33,17,Business
+98,Andrea,Johnson,Other,Senior,1.11,23,Biology
+99,Mary,Marquez,Female,Freshman,3.81,18,Computer Science
+100,John,Mooney,Other,Freshman,2.83,19,Computer Science
+101,Kelly,Meyer,Other,Sophomore,2.01,18,Business
+102,Brandon,Rowe,Female,Sophomore,0.76,25,History
+103,Joshua,Jones,Other,Freshman,2.32,27,English
+104,Kevin,Fletcher,Female,Sophomore,0.69,26,Chemistry
+105,Kevin,Gordon,Other,Junior,1.38,20,Computer Science
+106,Roy,Silva,Male,Sophomore,3.83,26,Mathematics
+107,Natalie,Collins,Male,Junior,3.47,20,Business
+108,Andrew,Smith,Female,Senior,3.31,28,English
+109,Nicholas,Miller,Male,Freshman,1.49,30,Psychology
+110,Kevin,Lowe,Male,Senior,0.51,20,Mathematics
+111,Debra,Oconnell,Other,Sophomore,3.07,27,Biology
+112,Edward,Gonzales,Female,Senior,3.39,22,Business
+113,Eric,Keller,Female,Freshman,3.06,24,Computer Science
+114,Destiny,Camacho,Male,Freshman,1.22,21,Mathematics
+115,Andrew,Leon,Other,Sophomore,3.58,27,Computer Science
+116,Michele,Wade,Female,Sophomore,1.34,27,Chemistry
+117,Christopher,Bridges,Female,Sophomore,0.22,22,Biology
+118,Ashley,Sparks,Other,Freshman,3.83,25,Biology
+119,Elizabeth,Knapp,Other,Sophomore,0.67,29,Biology
+120,Corey,Bowers,Male,Junior,2.96,29,Chemistry
+121,Michael,Woods,Female,Senior,0.78,19,Computer Science
+122,Christopher,Todd,Female,Senior,3.76,23,Business
+123,Randy,Lynch,Other,Freshman,2.77,20,Mathematics
+124,Robin,Fleming,Female,Junior,3.66,25,Psychology
+125,Mark,Graham,Male,Senior,0.32,17,English
+126,Steven,Cox,Male,Freshman,2.91,17,History
+127,Lisa,Montgomery,Male,Senior,1.34,27,English
+128,David,Ross,Female,Senior,3.7,18,Computer Science
+129,Brittany,Murphy,Male,Junior,2.4,27,Psychology
+130,Courtney,Acevedo,Male,Sophomore,2.04,28,Biology
+131,Alicia,Boyd,Male,Freshman,3.22,17,Chemistry
+132,Mark,Perry,Female,Senior,3.62,20,Computer Science
+133,Veronica,Black,Female,Freshman,3.83,27,English
+134,Stacey,Nichols,Male,Junior,3.95,17,Biology
+135,Alexandra,Simpson,Male,Freshman,2.25,28,Psychology
+136,Pamela,Mcgrath,Female,Sophomore,0.52,26,Mathematics
+137,Bruce,Daniel,Other,Senior,0.06,29,Mathematics
+138,Valerie,Lambert,Female,Freshman,3.25,21,Computer Science
+139,Francis,Humphrey,Other,Sophomore,2.62,28,History
+140,Steven,Riddle,Female,Freshman,1.05,28,Psychology
+141,Cody,Howard,Male,Junior,0.88,23,Business
+142,Kathryn,Gonzalez,Other,Senior,1.45,22,Computer Science
+143,Nathan,Wilson,Male,Senior,3.78,28,Chemistry
+144,Lauren,Thomas,Male,Junior,3.57,17,Business
+145,Russell,Wheeler,Female,Sophomore,3.51,17,English
+146,Kyle,Johnson,Other,Junior,3.25,28,Psychology
+147,Shawn,Nelson,Male,Senior,0.74,18,Computer Science
+148,Michelle,Moore,Male,Senior,2.23,24,Mathematics
+149,Edward,Dudley,Other,Junior,0.45,19,Psychology
+150,David,Willis,Male,Sophomore,0.22,29,Mathematics
+151,Justin,Dougherty,Other,Junior,0.3,24,English
+152,Destiny,Hayes,Male,Freshman,1.13,30,Mathematics
+153,Todd,Sampson,Female,Sophomore,0.9,25,History
+154,Ethan,Day,Male,Freshman,2.74,20,Chemistry
+155,David,Sanchez,Female,Sophomore,2.07,25,Biology
+156,Danielle,Castro,Female,Sophomore,3.42,19,English
+157,Christine,Turner,Other,Sophomore,3.74,26,Business
+158,Lisa,Burgess,Male,Freshman,3.6,25,Biology
+159,Mary,Hansen,Other,Freshman,3.04,19,Chemistry
+160,Sara,Wright,Other,Freshman,0.13,20,Chemistry
+161,Martin,Aguilar,Female,Sophomore,3.09,19,Biology
+162,Mckenzie,Rodriguez,Other,Sophomore,0.55,18,Psychology
+163,William,Smith,Other,Senior,1.93,22,Mathematics
+164,Eric,Hutchinson,Other,Sophomore,0.27,24,Psychology
+165,Katrina,Terrell,Female,Junior,0.24,25,Computer Science
+166,Rebecca,Reynolds,Male,Sophomore,2.88,19,English
+167,Amy,Greene,Other,Junior,2.79,20,Biology
+168,Richard,Warren,Male,Sophomore,3.19,27,Biology
+169,Zachary,Reed,Male,Freshman,3.29,29,Business
+170,Robert,Wells,Male,Sophomore,0.38,27,Chemistry
+171,Laura,Coleman,Female,Junior,0.09,26,Mathematics
+172,Richard,Ho,Female,Sophomore,1.34,28,Chemistry
+173,Cynthia,Solis,Other,Sophomore,2.4,28,Mathematics
+174,Thomas,Gross,Male,Sophomore,2.31,22,Mathematics
+175,William,Newman,Other,Junior,2.94,24,English
+176,Bethany,Davis,Male,Freshman,0.89,30,Chemistry
+177,Garrett,Patel,Other,Junior,0.85,22,Mathematics
+178,Dana,Norton,Male,Sophomore,3.92,18,Computer Science
+179,Leonard,Logan,Male,Freshman,1.65,19,Psychology
+180,Jose,Fowler,Male,Junior,1.21,28,English
+181,Keith,Mcmillan,Other,Freshman,0.45,24,Mathematics
+182,Mark,Johnson,Female,Junior,0.98,28,English
+183,Harry,Stewart,Male,Senior,0.13,28,Psychology
+184,William,Melton,Male,Junior,2.38,20,Psychology
+185,Sarah,Simmons,Other,Senior,0.51,20,Business
+186,Mark,Robertson,Other,Junior,3.46,21,History
+187,Joel,Carson,Other,Freshman,1.21,23,Psychology
+188,Michelle,Diaz,Male,Freshman,2.24,29,Chemistry
+189,Jeffrey,Buck,Other,Sophomore,2.06,27,History
+190,Penny,Cobb,Other,Senior,3.04,27,Business
+191,Veronica,Ramirez,Female,Sophomore,3.31,21,English
+192,John,Jones,Male,Freshman,3.54,23,History
+193,Vanessa,Stephenson,Female,Senior,2.33,18,Biology
+194,Kristy,French,Other,Freshman,0.66,23,Computer Science
+195,Heather,Wise,Female,Junior,1.0,27,History
+196,Melissa,Mendoza,Other,Sophomore,3.08,18,Chemistry
+197,Megan,Bates,Female,Sophomore,3.91,21,Mathematics
+198,William,Weber,Other,Junior,0.78,30,History
+199,Donald,Anderson,Female,Senior,1.49,17,Psychology
+200,Sherri,Valdez,Female,Freshman,2.27,29,English
+201,Jonathon,Church,Male,Senior,3.91,18,Business
+202,Michael,Miller,Female,Senior,3.26,28,History
+203,Stephanie,Jimenez,Female,Sophomore,3.0,23,English
+204,Kayla,Cervantes,Other,Senior,3.36,30,Chemistry
+205,Jeanne,Ortiz,Other,Sophomore,1.26,19,History
+206,Brandon,Wallace,Other,Senior,0.04,28,History
+207,Thomas,Walters,Female,Sophomore,1.93,24,English
+208,William,Carter,Female,Senior,0.23,29,History
+209,Charles,Bennett,Male,Senior,2.86,17,Computer Science
+210,Rachel,Willis,Male,Freshman,3.92,26,English
+211,Kyle,Fields,Other,Freshman,0.95,23,Business
+212,Johnny,Thomas,Female,Freshman,3.38,19,Chemistry
+213,Tracey,Mason,Male,Junior,1.41,29,English
+214,Steven,Robbins,Other,Senior,1.12,29,English
+215,Tyler,Rodriguez,Male,Junior,0.25,18,Biology
+216,Ronald,Underwood,Male,Junior,0.87,26,History
+217,James,Mayo,Other,Freshman,2.14,26,Chemistry
+218,Jonathan,Carrillo,Other,Freshman,0.26,19,Biology
+219,Katrina,Butler,Male,Sophomore,2.81,19,Computer Science
+220,Tyler,Richardson,Male,Junior,3.63,22,Mathematics
+221,Amy,Alexander,Other,Junior,1.25,30,Mathematics
+222,Jessica,Andrade,Female,Junior,2.81,19,Psychology
+223,David,Baker,Other,Junior,3.55,18,Computer Science
+224,Lisa,Tate,Male,Senior,3.59,21,Chemistry
+225,Amanda,Farrell,Female,Freshman,1.95,17,Business
+226,Earl,Parker,Female,Senior,3.46,29,Chemistry
+227,Mark,Curtis,Other,Junior,2.62,26,Chemistry
+228,Lindsay,Barron,Female,Senior,1.99,27,Business
+229,Margaret,Edwards,Male,Senior,2.69,21,Psychology
+230,Dawn,Johnson,Other,Sophomore,1.83,23,Computer Science
+231,Timothy,Bowman,Male,Freshman,0.96,25,Business
+232,Amy,Olson,Other,Sophomore,3.83,20,Business
+233,Michele,Jones,Male,Sophomore,1.19,22,History
+234,Steven,Perez,Male,Sophomore,2.12,26,Computer Science
+235,Sandra,Barr,Female,Freshman,0.77,28,History
+236,Joe,Grant,Other,Senior,3.98,22,Biology
+237,Michelle,Hutchinson,Other,Freshman,3.72,17,Computer Science
+238,Kathryn,Roberts,Male,Senior,3.01,20,Mathematics
+239,Christina,Mccoy,Other,Junior,3.21,17,History
+240,William,Hodge,Other,Junior,3.28,28,History
+241,Marcus,Hill,Male,Senior,3.14,17,English
+242,Ebony,Pearson,Other,Sophomore,3.71,22,Chemistry
+243,Amber,Hansen,Male,Senior,2.91,27,Mathematics
+244,Ashley,Munoz,Female,Junior,3.76,17,History
+245,Edward,Williams,Female,Senior,3.34,23,Mathematics
+246,James,Thomas,Female,Sophomore,2.77,17,Computer Science
+247,Joshua,Davis,Female,Senior,1.55,18,Biology
+248,Emily,Jones,Male,Sophomore,1.45,18,Biology
+249,Scott,Garrison,Female,Junior,1.61,19,Biology
+250,Angela,Macdonald,Female,Freshman,0.1,22,History
+251,Barbara,Graham,Female,Senior,2.2,27,History
+252,James,Walker,Other,Sophomore,2.54,26,Computer Science
+253,Sophia,Hansen,Female,Freshman,2.34,18,Mathematics
+254,Sarah,Harvey,Female,Junior,1.54,21,Business
+255,Tiffany,Graham,Male,Junior,3.63,25,Mathematics
+256,Margaret,Wallace,Other,Junior,2.59,30,English
+257,Sierra,Hunter,Female,Senior,3.45,28,English
+258,Peter,Schultz,Female,Senior,3.0,29,Psychology
+259,Jessica,Perry,Other,Junior,3.0,20,Psychology
+260,Sarah,Stanton,Female,Senior,2.79,19,Chemistry
+261,Gregory,Adams,Female,Freshman,2.38,25,Mathematics
+262,Patricia,Potts,Other,Senior,1.55,28,Chemistry
+263,Nicholas,Ayers,Female,Senior,2.69,21,Biology
+264,Taylor,Richardson,Other,Senior,0.59,30,Chemistry
+265,David,Jones,Female,Sophomore,2.21,17,History
+266,Bryan,Miller,Other,Junior,2.55,21,Chemistry
+267,Amber,White,Female,Sophomore,2.54,20,Mathematics
+268,Mary,Stewart,Male,Freshman,2.63,26,Business
+269,Melissa,Brooks,Other,Sophomore,3.02,22,Business
+270,Stephanie,Farmer,Female,Freshman,2.47,20,Chemistry
+271,Christopher,Holt,Other,Sophomore,1.21,19,Chemistry
+272,William,Harris,Other,Junior,3.92,26,Mathematics
+273,Courtney,Johnson,Male,Freshman,0.48,20,Mathematics
+274,Mario,Martinez,Male,Junior,1.43,24,Psychology
+275,Daniel,Caldwell,Other,Junior,2.3,19,Mathematics
+276,Benjamin,King,Male,Senior,0.42,22,English
+277,Charles,Shields,Female,Sophomore,3.41,20,Mathematics
+278,Billy,Bell,Male,Junior,0.42,18,Chemistry
+279,Brittany,Coleman,Female,Senior,2.13,25,Chemistry
+280,Evelyn,Jensen,Female,Freshman,0.23,23,Chemistry
+281,Thomas,White,Female,Freshman,1.99,25,Biology
+282,Mary,Edwards,Male,Junior,0.41,22,Chemistry
+283,David,Fuller,Female,Senior,2.22,24,Computer Science
+284,Gabrielle,Trujillo,Male,Sophomore,2.79,27,Psychology
+285,Tiffany,Grant,Female,Senior,2.91,28,Biology
+286,Breanna,Rivera,Male,Senior,2.06,29,Psychology
+287,Brittany,Blackwell,Male,Sophomore,0.36,28,English
+288,Travis,Moore,Male,Freshman,0.67,27,Chemistry
+289,Marvin,Norton,Other,Junior,1.98,18,Biology
+290,Carl,Wiggins,Female,Senior,3.13,23,Chemistry
+291,Roy,Howell,Female,Junior,2.57,19,Psychology
+292,Melissa,Davis,Female,Senior,0.51,29,Biology
+293,Shawn,Fernandez,Female,Sophomore,3.46,26,History
+294,Rachel,James,Other,Junior,2.28,19,English
+295,Jodi,Daniels,Female,Sophomore,1.18,23,Computer Science
+296,April,Thompson,Other,Junior,1.65,19,Business
+297,Courtney,Morris,Male,Senior,0.92,30,History
+298,Diamond,Jacobson,Other,Junior,2.6,27,Computer Science
+299,Brenda,Saunders,Female,Sophomore,2.86,27,Business
+300,Samantha,Miller,Male,Junior,3.76,26,Mathematics
+301,Robin,Gomez,Other,Junior,2.29,19,History
+302,Cynthia,Peterson,Female,Freshman,2.43,21,History
+303,Christine,Cruz,Other,Freshman,0.44,20,Biology
+304,Michael,Hall,Female,Junior,1.81,26,Biology
+305,Johnny,Hill,Male,Senior,1.25,22,Biology
+306,Manuel,Clark,Female,Freshman,3.08,26,Chemistry
+307,Margaret,Rose,Female,Sophomore,3.33,18,Computer Science
+308,Dillon,Dunlap,Other,Sophomore,2.84,22,Biology
+309,Christopher,Orozco,Female,Sophomore,3.23,17,Mathematics
+310,Bradley,Torres,Other,Junior,3.47,28,Chemistry
+311,Christopher,Raymond,Male,Sophomore,2.49,23,Chemistry
+312,Stephanie,Osborn,Female,Sophomore,1.36,29,English
+313,Troy,Mann,Other,Freshman,3.79,29,Computer Science
+314,Sarah,Cook,Male,Junior,3.1,25,Computer Science
+315,Brendan,Ramirez,Male,Junior,1.75,17,Business
+316,Emily,Franco,Other,Junior,2.68,26,History
+317,Leslie,Solis,Female,Freshman,0.6,21,English
+318,Paul,Navarro,Male,Junior,2.15,21,Computer Science
+319,Eric,Olson,Other,Junior,2.63,21,Chemistry
+320,Jonathan,Ross,Other,Senior,0.59,23,Biology
+321,Kimberly,Miller,Male,Junior,2.27,17,Mathematics
+322,Richard,Gomez,Other,Freshman,1.7,23,Chemistry
+323,Gregory,Dawson,Female,Sophomore,0.11,27,History
+324,Beverly,Mcneil,Male,Junior,3.74,19,Mathematics
+325,Sean,Morgan,Female,Sophomore,2.65,26,Mathematics
+326,Brad,Torres,Female,Senior,2.1,17,Psychology
+327,Craig,Cox,Other,Senior,2.6,29,Business
+328,Jesse,Smith,Other,Junior,2.45,30,Mathematics
+329,Carla,Stevenson,Female,Freshman,1.12,18,Psychology
+330,David,Torres,Male,Senior,1.59,24,Computer Science
+331,John,Smith,Male,Freshman,3.18,20,History
+332,Bradley,Quinn,Female,Senior,2.2,20,Psychology
+333,Michael,Hale,Other,Senior,2.46,20,Computer Science
+334,Michael,Hurley,Male,Senior,3.43,27,Business
+335,Mark,Smith,Female,Senior,1.35,18,Mathematics
+336,Samantha,Blankenship,Male,Sophomore,1.12,24,English
+337,Hannah,Rich,Other,Junior,0.16,23,Biology
+338,Kari,Nguyen,Female,Senior,0.07,30,English
+339,Michael,Peterson,Male,Junior,0.37,25,Chemistry
+340,Marie,Bailey,Other,Senior,3.65,24,Psychology
+341,David,Murray,Other,Sophomore,2.45,21,Business
+342,Wendy,Lopez,Other,Junior,3.54,18,Business
+343,Lauren,Mckenzie,Other,Senior,2.73,24,Chemistry
+344,Robin,Hobbs,Female,Sophomore,0.77,24,History
+345,Adriana,Boyd,Female,Senior,0.09,19,History
+346,Mary,Wilson,Male,Sophomore,0.58,20,History
+347,Jordan,Stephens,Male,Sophomore,0.95,25,Business
+348,Darlene,Stark,Female,Senior,2.35,21,Biology
+349,Jacob,Logan,Male,Freshman,3.12,21,Mathematics
+350,Kristen,Kim,Male,Sophomore,0.38,22,Computer Science
+351,Robert,Dunn,Other,Freshman,3.1,20,Biology
+352,Adam,Shaffer,Other,Senior,0.55,18,Chemistry
+353,Ashley,Gomez,Male,Sophomore,1.05,25,Chemistry
+354,Paul,Caldwell,Other,Freshman,2.66,17,Psychology
+355,Rachel,Murphy,Male,Sophomore,1.84,22,Mathematics
+356,Andrew,Simmons,Female,Sophomore,1.73,29,Chemistry
+357,Shawn,Ruiz,Other,Junior,3.46,26,Computer Science
+358,William,Anderson,Male,Junior,3.09,17,Biology
+359,Christine,Schwartz,Female,Freshman,1.82,22,Computer Science
+360,Joseph,Fuentes,Male,Junior,2.3,24,Business
+361,Eric,Bray,Female,Sophomore,0.39,17,Biology
+362,Stacey,Love,Other,Sophomore,0.24,19,History
+363,Tyler,Myers,Other,Freshman,3.19,30,English
+364,Michael,Newman,Female,Junior,2.53,17,History
+365,Shannon,Anderson,Female,Junior,3.03,28,Chemistry
+366,Michael,Patel,Female,Freshman,2.14,18,Biology
+367,Scott,Russell,Male,Freshman,3.78,17,Mathematics
+368,Willie,Jones,Female,Sophomore,2.49,24,Computer Science
+369,Jose,Smith,Female,Freshman,0.69,28,Psychology
+370,Nancy,Bell,Female,Sophomore,3.09,21,Psychology
+371,Shelley,Clark,Other,Sophomore,0.02,20,Chemistry
+372,Tanya,Porter,Male,Senior,2.7,29,English
+373,Donna,Caldwell,Female,Senior,3.36,25,Psychology
+374,Kevin,Thompson,Female,Junior,0.7,19,English
+375,Jesus,Conner,Male,Junior,0.07,26,Biology
+376,Theresa,Miranda,Other,Junior,0.51,29,English
+377,Christina,Sanchez,Female,Junior,1.06,30,History
+378,Christine,Fox,Other,Freshman,0.84,25,Business
+379,Michael,Russell,Male,Junior,1.27,30,Psychology
+380,Jacqueline,Kline,Male,Sophomore,0.21,25,English
+381,Joshua,Ferguson,Other,Junior,3.63,30,Computer Science
+382,Julia,Howell,Other,Senior,3.63,21,Mathematics
+383,James,Cummings,Other,Sophomore,1.78,30,English
+384,James,Graham,Female,Freshman,0.28,29,History
+385,Sara,West,Female,Junior,0.66,24,History
+386,Robin,Ochoa,Other,Junior,3.03,22,Business
+387,Eric,Terrell,Male,Senior,1.76,22,Computer Science
+388,Leah,Edwards,Female,Freshman,0.65,23,Business
+389,Kurt,Lopez,Male,Sophomore,2.25,29,Computer Science
+390,Stephanie,Patterson,Female,Junior,2.13,22,Business
+391,Kayla,Riley,Other,Junior,0.86,20,Chemistry
+392,Matthew,Collins,Male,Senior,3.69,23,Computer Science
+393,Jamie,Cross,Male,Freshman,0.65,27,Chemistry
+394,Raymond,Davis,Male,Freshman,1.16,25,Biology
+395,Jacob,Stewart,Female,Junior,2.53,24,History
+396,Nicole,Brown,Other,Junior,3.43,27,Chemistry
+397,Cory,Sanders,Female,Junior,1.16,24,Psychology
+398,Carolyn,Williams,Other,Freshman,0.7,17,Mathematics
+399,Kerry,Fischer,Other,Freshman,0.74,17,Psychology
+400,Stacy,Owen,Male,Junior,3.82,19,Business
+401,Dean,Nguyen,Female,Freshman,0.53,26,History
+402,John,Butler,Female,Junior,2.96,25,Biology
+403,Steven,Tate,Other,Junior,1.1,26,Mathematics
+404,Stacy,Stafford,Other,Freshman,0.89,19,Mathematics
+405,Michelle,Fitzpatrick,Female,Freshman,0.48,21,Computer Science
+406,Darrell,Pena,Female,Sophomore,0.01,27,History
+407,John,Newton,Other,Freshman,2.14,22,Mathematics
+408,Justin,Turner,Other,Senior,2.6,17,Mathematics
+409,Jesus,Morales,Female,Sophomore,0.66,30,Psychology
+410,Paula,Brown,Female,Freshman,1.98,28,Mathematics
+411,Gabriela,Aguilar,Male,Sophomore,1.55,26,History
+412,Jorge,Davis,Female,Sophomore,0.68,24,Mathematics
+413,Stephanie,Murray,Male,Sophomore,3.28,28,English
+414,Paula,Smith,Female,Senior,1.14,27,History
+415,Katherine,Woods,Other,Senior,2.37,26,History
+416,Krista,Walters,Female,Sophomore,1.29,26,Mathematics
+417,Sergio,Walker,Other,Senior,1.23,18,Psychology
+418,Trevor,Moran,Male,Sophomore,2.42,18,Computer Science
+419,Mary,Sims,Other,Sophomore,2.66,23,Business
+420,David,Powers,Other,Freshman,1.64,18,Psychology
+421,Sara,Martinez,Male,Junior,1.58,19,Biology
+422,Kathy,Cooper,Male,Sophomore,1.98,25,Business
+423,Christopher,Mendoza,Other,Senior,3.04,25,Psychology
+424,Kathleen,Stanley,Female,Sophomore,2.45,29,Biology
+425,James,Smith,Other,Sophomore,2.13,29,Mathematics
+426,Leah,Hurley,Female,Senior,1.79,24,Psychology
+427,Kayla,Williams,Other,Junior,3.58,22,English
+428,Christopher,Greene,Female,Junior,0.18,21,Chemistry
+429,Nicholas,Gomez,Female,Junior,2.72,20,Psychology
+430,Mike,Shelton,Female,Freshman,1.77,28,Mathematics
+431,Nicholas,Grant,Female,Junior,3.87,17,Mathematics
+432,Heidi,Morton,Other,Freshman,2.54,28,English
+433,Debbie,Guerrero,Male,Senior,0.2,22,Biology
+434,Debbie,Robinson,Male,Sophomore,3.65,30,Biology
+435,Michael,Brooks,Other,Freshman,2.59,18,Mathematics
+436,Michelle,Smith,Female,Junior,3.42,26,History
+437,Jennifer,Buchanan,Other,Junior,3.84,22,Psychology
+438,Robert,Taylor,Male,Junior,2.68,24,Chemistry
+439,Jessica,Lopez,Female,Senior,2.08,30,Business
+440,Joe,Winters,Female,Freshman,2.82,24,Chemistry
+441,Sophia,Ayala,Female,Senior,2.14,27,Psychology
+442,Aaron,White,Other,Junior,3.58,20,Psychology
+443,Tim,Stevens,Other,Sophomore,1.92,28,Psychology
+444,Tammy,Nicholson,Other,Sophomore,3.44,17,English
+445,Patricia,Ramirez,Male,Freshman,1.3,20,Chemistry
+446,Nancy,Rose,Other,Sophomore,3.56,29,Computer Science
+447,George,Guerrero,Male,Sophomore,0.3,22,Psychology
+448,Scott,Ferrell,Female,Freshman,0.07,25,Chemistry
+449,Jennifer,Castillo,Other,Freshman,0.35,21,Computer Science
+450,Charles,Hill,Male,Senior,2.35,26,Computer Science
+451,Joshua,Kerr,Male,Senior,2.33,18,Computer Science
+452,Lisa,Lewis,Other,Freshman,1.43,28,Business
+453,Ashley,James,Male,Sophomore,0.64,28,Psychology
+454,Alan,Strong,Male,Freshman,2.42,20,History
+455,Katie,Collins,Female,Freshman,0.77,29,Mathematics
+456,Rebecca,Howard,Male,Sophomore,1.93,21,Computer Science
+457,Katrina,Hurst,Other,Senior,1.66,17,Chemistry
+458,Michael,Wang,Male,Junior,2.75,20,Biology
+459,Antonio,Hudson,Male,Junior,3.41,20,Biology
+460,Erin,Wilson,Other,Sophomore,2.21,17,Mathematics
+461,Shane,Jackson,Female,Freshman,1.29,19,Psychology
+462,Jennifer,Cole,Male,Sophomore,1.46,20,Psychology
+463,Charles,Trevino,Female,Sophomore,1.16,23,Business
+464,Keith,Moses,Male,Freshman,2.66,22,English
+465,Kurt,Hunter,Other,Freshman,2.28,28,English
+466,Thomas,Kelly,Other,Senior,0.22,24,English
+467,Melissa,Floyd,Male,Junior,2.62,25,History
+468,Judy,Ramos,Other,Sophomore,3.52,29,Chemistry
+469,Michael,Ball,Other,Junior,0.45,23,Business
+470,Sandy,Hayes,Other,Sophomore,3.7,20,Computer Science
+471,Joshua,Martin,Male,Senior,3.93,23,English
+472,Troy,Wade,Other,Junior,3.45,21,Biology
+473,Jamie,Lowe,Other,Freshman,2.92,20,Chemistry
+474,Yolanda,Johnston,Other,Senior,0.46,17,Mathematics
+475,Carol,Andrews,Male,Junior,1.06,19,Biology
+476,Briana,Vega,Female,Freshman,2.23,22,Chemistry
+477,Brandon,Brown,Female,Junior,2.59,27,English
+478,Loretta,Scott,Other,Senior,3.38,23,Computer Science
+479,Michaela,Smith,Female,Sophomore,0.55,21,Business
+480,Robert,Burgess,Other,Sophomore,3.54,19,Computer Science
+481,Geoffrey,Davis,Male,Freshman,2.87,27,Biology
+482,Amanda,Howe,Other,Junior,1.87,26,History
+483,Caleb,Vincent,Male,Senior,1.97,20,Business
+484,Emma,Fuller,Female,Freshman,3.15,22,Mathematics
+485,Christopher,Wells,Male,Freshman,1.07,24,Business
+486,Dawn,Gomez,Other,Senior,3.92,22,Computer Science
+487,Larry,Rhodes,Male,Freshman,2.72,18,Computer Science
+488,Eric,Moore,Female,Freshman,0.79,21,Psychology
+489,Erica,Pena,Female,Junior,1.9,23,Psychology
+490,Catherine,Miller,Male,Freshman,3.56,29,History
+491,Jasmine,Juarez,Other,Junior,2.55,29,Mathematics
+492,Linda,Parker,Female,Junior,3.62,18,Business
+493,Pamela,Flynn,Male,Sophomore,1.48,18,Chemistry
+494,Dwayne,Morton,Other,Freshman,1.96,27,English
+495,Daniel,Barnett,Female,Freshman,2.88,19,Computer Science
+496,Russell,Huffman,Male,Senior,0.19,23,Business
+497,Sara,Lopez,Other,Sophomore,0.2,20,English
+498,Marcus,Robinson,Female,Freshman,1.04,30,Psychology
+499,Kelsey,Rivas,Male,Sophomore,3.43,30,Mathematics
+500,Jordan,Glover,Male,Freshman,3.83,28,Mathematics
+501,Stephanie,Wise,Male,Freshman,0.23,20,Biology
+502,Sonya,Richardson,Female,Senior,2.97,20,Chemistry
+503,Steven,Miller,Female,Sophomore,2.15,26,Psychology
+504,Randy,Parsons,Other,Freshman,2.12,27,Chemistry
+505,Cheryl,Rice,Other,Freshman,3.3,28,Mathematics
+506,Jason,Mason,Other,Senior,0.57,20,Computer Science
+507,Jake,Bradley,Female,Senior,2.84,29,Computer Science
+508,Dylan,Miller,Female,Freshman,1.88,17,English
+509,Adam,Davidson,Female,Freshman,3.58,21,Business
+510,Heather,Reed,Female,Sophomore,0.54,22,Business
+511,Randy,Brown,Other,Senior,0.21,23,English
+512,Jonathan,Obrien,Female,Junior,1.84,30,Computer Science
+513,Bruce,Martin,Male,Junior,3.91,22,Computer Science
+514,Rebecca,Ellis,Male,Junior,2.64,26,Psychology
+515,Daniel,Hubbard,Male,Senior,3.42,23,Computer Science
+516,Deborah,Carr,Other,Freshman,1.94,21,Business
+517,Michael,Johnson,Female,Freshman,3.69,23,English
+518,Daniel,Madden,Male,Sophomore,2.9,18,History
+519,Alexander,Watson,Other,Freshman,0.73,19,Mathematics
+520,Ryan,Moreno,Female,Sophomore,2.64,24,Mathematics
+521,Jacob,Jackson,Female,Senior,1.63,28,Business
+522,Crystal,Brewer,Other,Senior,2.36,27,Psychology
+523,Brenda,Martin,Female,Freshman,0.32,30,Psychology
+524,Philip,Klein,Other,Freshman,2.83,24,Mathematics
+525,Tiffany,Nichols,Male,Senior,2.6,19,Computer Science
+526,Karen,Coleman,Female,Freshman,3.21,24,History
+527,Zachary,Mann,Male,Senior,0.76,23,Biology
+528,Michael,Miller,Male,Senior,1.17,24,Psychology
+529,Patricia,Powell,Other,Freshman,2.94,19,Mathematics
+530,Michael,Hall,Male,Senior,2.33,18,Biology
+531,Janet,Torres,Female,Senior,3.67,22,Psychology
+532,Julian,Spencer,Male,Senior,2.89,30,Business
+533,Angela,Juarez,Female,Junior,2.46,25,History
+534,Kristin,Harris,Male,Senior,1.42,18,History
+535,Melissa,Porter,Female,Senior,1.0,20,Chemistry
+536,David,Gonzales,Other,Sophomore,2.32,24,English
+537,Kurt,Rivera,Male,Freshman,1.78,30,Biology
+538,David,Gill,Other,Junior,0.73,25,History
+539,Thomas,Riley,Other,Senior,2.09,26,Chemistry
+540,Lisa,Jones,Female,Freshman,3.88,29,Psychology
+541,Eric,Savage,Other,Junior,2.22,25,Biology
+542,Daniel,Aguirre,Male,Junior,2.07,24,Biology
+543,William,Holt,Male,Senior,1.63,30,Mathematics
+544,Lisa,Martinez,Male,Junior,3.63,19,History
+545,Sarah,Chapman,Male,Freshman,3.3,20,Mathematics
+546,John,Harris,Male,Freshman,3.23,21,Business
+547,Stephanie,Mitchell,Male,Junior,0.29,17,Computer Science
+548,Pedro,Calderon,Female,Freshman,0.49,29,Business
+549,Daniel,Carlson,Female,Junior,3.63,19,History
+550,Daniel,Baxter,Male,Junior,1.36,25,Biology
+551,Ronald,Watts,Other,Junior,2.75,20,English
+552,Jaime,Ruiz,Female,Senior,2.61,17,Business
+553,Tanya,Brown,Male,Senior,2.32,24,Chemistry
+554,Steve,Russell,Other,Sophomore,0.73,30,Computer Science
+555,Alisha,Rodriguez,Male,Senior,0.55,23,Psychology
+556,Max,Bush,Male,Freshman,0.24,22,Business
+557,Brooke,Gray,Female,Junior,2.53,21,English
+558,Julia,Miles,Female,Senior,2.87,20,Psychology
+559,James,Nichols,Other,Senior,2.77,25,Mathematics
+560,Charles,Young,Female,Junior,3.76,22,Computer Science
+561,Shane,Padilla,Male,Freshman,2.27,27,Business
+562,Denise,Valdez,Male,Senior,3.04,20,Mathematics
+563,Gabriel,Short,Other,Senior,1.74,24,History
+564,Jeremy,Gross,Female,Senior,0.11,17,English
+565,Beth,Lowe,Female,Freshman,1.66,23,Chemistry
+566,Renee,Jones,Male,Freshman,1.86,27,Biology
+567,Amanda,Romero,Other,Freshman,3.57,30,Psychology
+568,William,Williams,Other,Senior,1.96,19,Business
+569,Abigail,Duncan,Female,Freshman,3.12,25,Mathematics
+570,William,Ramos,Other,Junior,3.05,26,English
+571,Patricia,Patel,Female,Junior,2.62,26,History
+572,Linda,Miller,Female,Junior,3.87,23,Chemistry
+573,Stephen,Brown,Female,Freshman,1.19,30,History
+574,Leah,Ferguson,Other,Senior,2.79,20,Business
+575,Rebecca,David,Male,Sophomore,3.99,25,History
+576,Frank,Lee,Female,Sophomore,3.81,18,Mathematics
+577,Paul,Hoffman,Female,Freshman,2.26,22,English
+578,Emily,Klein,Other,Freshman,1.57,27,History
+579,Kenneth,Clark,Other,Freshman,1.27,27,Chemistry
+580,Elizabeth,King,Female,Junior,1.12,30,Mathematics
+581,Allison,Miller,Female,Junior,1.44,20,History
+582,Gary,Hall,Other,Junior,2.72,28,Business
+583,Jessica,Edwards,Other,Sophomore,1.73,20,Mathematics
+584,Cynthia,Woodard,Male,Sophomore,0.3,19,Chemistry
+585,Charles,Anderson,Other,Freshman,0.79,23,Mathematics
+586,Jeffrey,Stewart,Other,Senior,1.94,19,English
+587,Richard,Reyes,Other,Senior,1.11,23,History
+588,Edward,Patel,Male,Freshman,1.73,25,English
+589,Chelsey,Marsh,Female,Sophomore,0.85,20,Biology
+590,Kenneth,Davis,Female,Senior,2.0,29,History
+591,Maria,Whitney,Other,Junior,3.8,17,Psychology
+592,Jessica,Tapia,Other,Junior,3.11,27,Computer Science
+593,Amber,Fisher,Female,Freshman,3.68,22,History
+594,Kathleen,Hernandez,Other,Freshman,0.28,18,Chemistry
+595,Cassandra,Love,Female,Sophomore,2.23,26,Psychology
+596,Caroline,Gonzalez,Other,Freshman,3.45,22,History
+597,Kari,Bennett,Other,Junior,1.13,30,Biology
+598,Anthony,Costa,Male,Freshman,3.34,28,Biology
+599,Melinda,Porter,Male,Junior,2.15,20,English
+600,Michelle,Mason,Male,Junior,3.73,25,History
+601,David,Olson,Male,Junior,3.31,22,Mathematics
+602,Chad,Barnes,Female,Sophomore,0.22,23,Chemistry
+603,Mariah,Carter,Female,Junior,1.24,28,Computer Science
+604,Andrea,Gonzalez,Male,Freshman,0.09,21,Biology
+605,James,Callahan,Other,Freshman,0.24,22,History
+606,Angela,Davis,Male,Freshman,1.45,18,Business
+607,Sean,Hernandez,Other,Freshman,0.49,30,English
+608,Tyler,Barton,Female,Freshman,0.54,23,Chemistry
+609,Mark,Hancock,Other,Junior,2.77,18,Psychology
+610,Danielle,Gomez,Female,Senior,3.86,19,Computer Science
+611,Helen,Henry,Other,Sophomore,2.68,21,Chemistry
+612,Sheila,Mcclure,Female,Sophomore,1.3,29,History
+613,Elizabeth,Harmon,Other,Junior,1.15,21,Computer Science
+614,Cory,Hill,Female,Freshman,3.38,21,Psychology
+615,Amanda,Johns,Other,Sophomore,2.88,17,Biology
+616,Sara,Mccormick,Other,Freshman,3.73,25,Chemistry
+617,Rachael,Wilson,Other,Freshman,0.17,17,Biology
+618,Cynthia,Stewart,Other,Junior,3.32,23,Computer Science
+619,Sylvia,King,Other,Senior,0.38,29,History
+620,Antonio,Dawson,Female,Freshman,0.47,20,Computer Science
+621,Alejandro,Smith,Female,Sophomore,3.63,28,Business
+622,Derrick,Adkins,Male,Freshman,1.04,20,English
+623,Erica,Wagner,Other,Senior,2.22,27,Mathematics
+624,Katie,Williams,Other,Senior,2.15,22,Psychology
+625,Joshua,King,Male,Sophomore,0.9,19,Computer Science
+626,Denise,Faulkner,Female,Freshman,2.52,18,English
+627,Joseph,Burnett,Male,Senior,0.83,20,Business
+628,Mary,Daniels,Male,Senior,0.49,23,Business
+629,Douglas,Martin,Female,Senior,0.86,26,Biology
+630,Jesus,Davis,Male,Freshman,1.37,18,Computer Science
+631,Brandon,Jones,Male,Junior,1.34,20,Biology
+632,William,Gray,Female,Junior,2.76,30,Biology
+633,Alexis,Parker,Male,Sophomore,1.85,26,English
+634,Tamara,Vargas,Male,Freshman,2.26,27,Mathematics
+635,Scott,Smith,Male,Sophomore,2.37,22,English
+636,Levi,Miller,Male,Junior,1.83,20,Psychology
+637,Alexander,Johnson,Other,Sophomore,3.32,19,English
+638,Brian,Newton,Male,Sophomore,0.99,29,Business
+639,Brenda,Thompson,Other,Sophomore,2.48,25,Business
+640,Nathaniel,Nguyen,Male,Senior,2.0,17,English
+641,Dana,Edwards,Female,Junior,3.7,25,Biology
+642,Kimberly,Doyle,Male,Sophomore,0.77,19,Business
+643,Leslie,Thomas,Female,Senior,2.43,23,Computer Science
+644,Jessica,Barrera,Male,Junior,2.9,25,English
+645,Kristen,Carey,Other,Senior,2.95,17,Chemistry
+646,Charles,Gamble,Other,Junior,3.08,21,Business
+647,Trevor,Douglas,Female,Sophomore,2.02,27,English
+648,Frank,Garcia,Male,Sophomore,3.42,29,History
+649,Tammy,Tyler,Male,Sophomore,1.8,21,Business
+650,Sheila,Robertson,Female,Sophomore,1.15,28,History
+651,Paul,Brown,Male,Senior,0.53,17,History
+652,Melissa,Stephens,Female,Sophomore,1.13,23,Psychology
+653,Wanda,Lucas,Other,Freshman,3.9,20,Mathematics
+654,Yolanda,Perez,Male,Senior,2.56,28,Computer Science
+655,Jack,Harding,Other,Freshman,3.59,29,English
+656,Jamie,Powell,Female,Senior,3.18,29,Biology
+657,Sharon,Carter,Male,Senior,3.03,22,History
+658,Marc,Williams,Other,Sophomore,3.76,26,History
+659,Nicole,Fritz,Male,Sophomore,1.8,21,Computer Science
+660,Rachel,Hall,Other,Senior,2.94,20,Chemistry
+661,Travis,Willis,Other,Senior,3.56,23,Psychology
+662,Lydia,Brady,Other,Senior,0.19,17,Mathematics
+663,Brooke,Hoffman,Female,Junior,1.49,28,Business
+664,Peter,Carson,Male,Senior,0.88,26,Mathematics
+665,Elizabeth,Ashley,Female,Senior,0.57,26,Biology
+666,Robert,Watts,Female,Freshman,0.35,21,Chemistry
+667,Kelsey,Barton,Male,Senior,3.88,21,Chemistry
+668,Isaac,Shepherd,Male,Sophomore,0.61,26,Mathematics
+669,Rhonda,Riley,Male,Senior,1.97,21,Mathematics
+670,Darius,Cohen,Other,Junior,2.23,26,History
+671,Amanda,Torres,Other,Senior,1.2,17,Mathematics
+672,David,Davidson,Female,Junior,1.99,29,Mathematics
+673,Gene,Hansen,Other,Junior,0.52,21,History
+674,Edward,Kirk,Male,Freshman,0.64,23,English
+675,Kimberly,Duncan,Other,Freshman,0.1,21,English
+676,Brandon,Cummings,Male,Senior,0.05,21,Chemistry
+677,Tamara,Kemp,Male,Senior,0.52,27,English
+678,Beverly,Stokes,Male,Senior,3.89,25,Chemistry
+679,Colleen,Perez,Other,Junior,3.93,29,Business
+680,Brittany,Evans,Female,Senior,1.5,30,English
+681,Debra,Berry,Female,Senior,2.91,19,Chemistry
+682,Morgan,Moses,Other,Sophomore,1.85,30,Psychology
+683,Thomas,Martinez,Male,Freshman,1.86,28,Psychology
+684,Leslie,Parker,Other,Freshman,3.04,29,Chemistry
+685,Janet,Sandoval,Other,Freshman,3.23,25,Chemistry
+686,Victor,Miranda,Other,Freshman,1.21,25,Chemistry
+687,Robin,Thompson,Female,Sophomore,2.99,20,Psychology
+688,Shane,Miller,Male,Freshman,2.77,24,Chemistry
+689,Benjamin,Delgado,Male,Freshman,3.34,24,Business
+690,William,Craig,Other,Senior,0.97,20,Business
+691,John,Greene,Other,Freshman,1.89,24,English
+692,Heather,Parker,Female,Junior,2.71,29,English
+693,Robin,Johnson,Other,Senior,2.01,17,Business
+694,Jeffery,Miller,Female,Senior,3.76,26,Chemistry
+695,James,Holden,Female,Freshman,0.72,29,English
+696,Maria,Davila,Male,Freshman,2.7,30,Biology
+697,Stephanie,Matthews,Other,Sophomore,2.34,22,English
+698,Jody,Cantrell,Female,Junior,3.17,20,Psychology
+699,Erin,Mitchell,Male,Senior,0.92,24,Psychology
+700,Julie,Henderson,Male,Freshman,3.68,20,Business
+701,Monica,Mendoza,Male,Freshman,2.6,18,English
+702,Michael,Mendez,Female,Sophomore,1.54,27,History
+703,Destiny,Anderson,Other,Senior,2.38,30,Biology
+704,Sarah,Gomez,Male,Freshman,2.9,27,Mathematics
+705,Jeremy,Murray,Female,Junior,2.3,29,Business
+706,Thomas,Black,Female,Freshman,0.44,29,Mathematics
+707,Larry,Roach,Other,Sophomore,2.06,21,History
+708,Ronald,Gregory,Male,Senior,1.09,24,English
+709,Melissa,Long,Male,Sophomore,2.03,17,Chemistry
+710,Margaret,Lopez,Male,Senior,2.32,18,Computer Science
+711,Anthony,Smith,Male,Sophomore,0.57,21,Psychology
+712,Stephen,Garrett,Female,Senior,2.65,23,English
+713,Mariah,Rogers,Male,Senior,3.34,30,Chemistry
+714,Samuel,Santana,Male,Junior,3.09,18,Psychology
+715,Zachary,Lucero,Female,Sophomore,2.27,23,Business
+716,Sandra,Johnson,Female,Sophomore,3.31,25,Computer Science
+717,Chad,Anderson,Female,Senior,3.29,19,History
+718,Jeff,Keith,Male,Freshman,2.32,21,Psychology
+719,Christina,Herrera,Female,Freshman,2.56,23,English
+720,Monique,Russell,Other,Senior,1.38,21,History
+721,Dustin,Johnson,Male,Junior,2.35,22,Mathematics
+722,Beverly,Stuart,Male,Sophomore,1.49,25,History
+723,Amanda,Bell,Male,Freshman,3.17,17,Business
+724,Richard,Warren,Male,Freshman,3.62,27,Business
+725,Natalie,Schroeder,Female,Freshman,2.87,24,History
+726,Caleb,Carpenter,Male,Freshman,0.11,29,Business
+727,Robin,Johnson,Female,Sophomore,0.99,27,Mathematics
+728,Emily,Phillips,Other,Senior,0.2,28,Computer Science
+729,Kristi,Murphy,Male,Junior,0.97,27,Chemistry
+730,April,Smith,Male,Sophomore,2.54,28,Computer Science
+731,Amanda,Brown,Other,Freshman,3.0,30,English
+732,Christopher,Gonzalez,Other,Freshman,3.48,22,Business
+733,Raymond,Sanders,Female,Freshman,1.11,20,History
+734,Keith,Johnson,Other,Sophomore,1.51,25,Biology
+735,Barry,Dunn,Female,Senior,1.94,27,History
+736,Shannon,Jenkins,Male,Freshman,2.63,27,Business
+737,Christopher,Moody,Female,Junior,1.03,27,English
+738,David,Sherman,Female,Freshman,0.25,27,Mathematics
+739,Deborah,Clark,Male,Sophomore,4.0,29,Computer Science
+740,Maria,Mack,Other,Freshman,1.82,23,Mathematics
+741,Hannah,Brooks,Male,Freshman,0.52,27,English
+742,Jason,Johnson,Female,Sophomore,3.54,27,Biology
+743,Keith,Cox,Female,Freshman,2.91,20,Business
+744,Paul,Wallace,Other,Sophomore,3.95,23,Business
+745,Brian,Olsen,Male,Sophomore,3.79,30,Biology
+746,Jeffrey,Silva,Male,Junior,2.77,27,History
+747,Patricia,Davies,Male,Senior,1.99,23,Chemistry
+748,Andrea,Jackson,Other,Sophomore,3.03,24,History
+749,Mitchell,Phillips,Other,Junior,2.34,30,Mathematics
+750,Arthur,Crawford,Female,Senior,0.42,19,Computer Science
+751,Kristen,Reynolds,Other,Senior,0.74,22,Mathematics
+752,Maurice,Miller,Male,Sophomore,3.54,29,Chemistry
+753,Caleb,Jones,Other,Freshman,2.65,18,Mathematics
+754,Timothy,Baker,Male,Freshman,3.1,28,Chemistry
+755,Caitlyn,Herrera,Other,Senior,2.25,22,Computer Science
+756,Sharon,Woods,Other,Senior,2.89,25,Computer Science
+757,Andrew,Nelson,Male,Freshman,3.19,24,Chemistry
+758,Robert,Byrd,Male,Freshman,2.61,18,Mathematics
+759,Linda,Martinez,Male,Junior,2.16,27,History
+760,Crystal,Cameron,Other,Sophomore,0.63,27,Psychology
+761,Christopher,Griffith,Other,Freshman,0.77,24,English
+762,Amber,Cox,Male,Sophomore,2.63,18,Computer Science
+763,David,Jenkins,Male,Senior,3.22,22,Mathematics
+764,Julia,Howell,Female,Senior,0.43,19,Chemistry
+765,Gabriel,Oneill,Male,Senior,1.38,25,English
+766,Rebecca,Sanchez,Male,Junior,1.83,26,Mathematics
+767,Ashlee,Bell,Male,Freshman,3.44,21,English
+768,Connie,Brown,Female,Freshman,2.9,22,Mathematics
+769,Jay,Gilbert,Male,Sophomore,0.91,25,Mathematics
+770,Susan,Jones,Other,Sophomore,2.67,21,English
+771,Nicholas,Ross,Male,Junior,0.75,20,Computer Science
+772,Mark,Jenkins,Male,Sophomore,2.37,27,Business
+773,Kelly,Ward,Female,Senior,1.14,23,Mathematics
+774,Ryan,Smith,Other,Sophomore,0.77,18,Computer Science
+775,Anthony,Byrd,Male,Freshman,3.38,20,Biology
+776,Tracy,Hill,Male,Freshman,0.55,26,Mathematics
+777,Jessica,Robinson,Female,Senior,3.46,19,Computer Science
+778,Kyle,Davis,Male,Sophomore,3.45,25,English
+779,Mark,Collins,Female,Junior,1.5,27,Computer Science
+780,Holly,Obrien,Other,Junior,3.31,20,Computer Science
+781,Dawn,Garcia,Female,Senior,0.83,29,English
+782,Teresa,Nunez,Female,Freshman,0.94,22,English
+783,Melissa,Davis,Other,Junior,3.29,30,Biology
+784,Katherine,Haynes,Female,Senior,0.09,30,Chemistry
+785,Brian,Mueller,Male,Sophomore,0.51,18,Mathematics
+786,Ana,Jones,Female,Senior,0.62,25,Mathematics
+787,Tiffany,Mora,Female,Sophomore,0.27,19,Computer Science
+788,Micheal,Keller,Male,Senior,1.74,19,Chemistry
+789,Robert,Wallace,Male,Junior,2.72,30,Business
+790,Katelyn,Roberts,Other,Freshman,3.96,24,Biology
+791,Mary,Frost,Other,Freshman,1.69,17,Computer Science
+792,Mary,Maldonado,Female,Senior,0.12,23,Computer Science
+793,Melissa,Carr,Female,Sophomore,3.28,25,Mathematics
+794,Laurie,Randall,Male,Senior,2.15,18,Chemistry
+795,Robert,Wheeler,Other,Junior,0.77,20,Psychology
+796,Melanie,Ayers,Male,Sophomore,3.1,20,Mathematics
+797,Leslie,Reed,Other,Junior,0.49,19,Biology
+798,Joshua,James,Other,Senior,0.69,30,English
+799,James,Butler,Male,Junior,0.6,25,Computer Science
+800,Sophia,Wilson,Female,Senior,1.75,17,Chemistry
+801,Bridget,Reed,Other,Junior,3.88,29,History
+802,Morgan,Phillips,Female,Sophomore,2.44,26,Chemistry
+803,Matthew,Lynn,Male,Sophomore,2.83,19,Chemistry
+804,Lisa,Jones,Male,Sophomore,1.48,21,Chemistry
+805,Heather,Morales,Female,Freshman,2.98,23,History
+806,Angelica,Lee,Other,Freshman,1.55,17,Mathematics
+807,David,Morton,Other,Senior,3.76,30,Psychology
+808,Mitchell,Gibbs,Male,Sophomore,0.99,20,Mathematics
+809,Brian,Ferguson,Other,Freshman,2.53,23,Biology
+810,Dylan,Wallace,Other,Freshman,2.17,22,Psychology
+811,Crystal,Randolph,Male,Freshman,2.97,20,Psychology
+812,Ryan,Allen,Other,Freshman,2.16,22,Chemistry
+813,Nathan,Armstrong,Male,Freshman,0.6,22,Chemistry
+814,Ricardo,Henderson,Other,Freshman,3.9,29,English
+815,Andrew,Garcia,Male,Sophomore,2.31,22,English
+816,Joseph,Williams,Female,Sophomore,3.1,24,History
+817,Samuel,Day,Other,Freshman,0.38,20,Mathematics
+818,Nicholas,Nichols,Female,Freshman,2.74,18,Mathematics
+819,Timothy,Walters,Male,Freshman,3.26,22,English
+820,Angela,Phillips,Male,Sophomore,2.02,18,Computer Science
+821,Eric,Pham,Male,Sophomore,0.11,19,Biology
+822,Russell,Castro,Other,Junior,3.91,28,English
+823,Michael,Edwards,Other,Sophomore,2.19,23,Chemistry
+824,David,Scott,Male,Junior,1.29,21,Computer Science
+825,Bradley,Acosta,Female,Sophomore,1.58,30,Biology
+826,Daniel,Walker,Female,Senior,1.79,25,Computer Science
+827,Ian,Cohen,Male,Freshman,0.01,26,Chemistry
+828,Christina,Hoffman,Female,Sophomore,2.99,26,Psychology
+829,Timothy,Jones,Female,Sophomore,1.88,23,Biology
+830,Kimberly,Mcdowell,Male,Sophomore,1.93,26,Chemistry
+831,Shane,Franklin,Female,Freshman,1.94,28,Chemistry
+832,Johnny,Wallace,Other,Sophomore,2.43,24,Psychology
+833,Thomas,Myers,Female,Junior,2.57,23,Psychology
+834,Troy,Carpenter,Other,Senior,3.24,29,Biology
+835,John,Hansen,Female,Freshman,1.96,18,Chemistry
+836,Melvin,Fletcher,Male,Freshman,3.49,19,Biology
+837,Rachel,White,Female,Senior,3.8,23,History
+838,Sarah,Knight,Other,Freshman,3.37,21,Mathematics
+839,Nancy,Hall,Other,Junior,3.33,18,English
+840,Dean,Hernandez,Male,Sophomore,0.75,25,Chemistry
+841,Kim,Harper,Female,Senior,3.05,29,Mathematics
+842,Elizabeth,Sandoval,Male,Sophomore,1.44,17,History
+843,Jill,Martin,Male,Senior,0.4,25,History
+844,Kristi,Lopez,Female,Junior,1.66,22,Computer Science
+845,Hector,King,Female,Junior,1.93,28,Chemistry
+846,Samuel,Hughes,Female,Freshman,3.06,23,Biology
+847,Cathy,Watson,Male,Senior,3.74,29,Psychology
+848,Kimberly,Hoffman,Female,Freshman,1.37,22,Biology
+849,Cheryl,Stewart,Female,Sophomore,0.21,17,Biology
+850,Troy,Tucker,Male,Sophomore,1.58,27,Business
+851,Kimberly,Adams,Female,Freshman,2.36,22,Business
+852,Christina,Butler,Female,Freshman,0.54,30,Computer Science
+853,Kevin,Doyle,Female,Senior,2.33,20,Psychology
+854,Ryan,Martinez,Female,Sophomore,0.64,20,Biology
+855,Taylor,Johnson,Other,Sophomore,3.41,19,Business
+856,Leah,Moreno,Other,Sophomore,2.93,19,Mathematics
+857,Eric,Gardner,Male,Freshman,0.07,21,Mathematics
+858,Anne,Hayes,Other,Freshman,1.14,27,Biology
+859,Sean,Walker,Other,Sophomore,2.25,27,Business
+860,Desiree,Hill,Female,Freshman,3.84,30,Biology
+861,Rebecca,Cochran,Male,Freshman,1.16,20,Business
+862,David,Smith,Female,Junior,2.84,27,Mathematics
+863,Kimberly,Dunn,Female,Sophomore,3.08,27,History
+864,Alexander,Adams,Other,Senior,1.59,22,Computer Science
+865,George,Banks,Female,Sophomore,2.58,27,Psychology
+866,Mathew,Valdez,Female,Junior,0.59,19,Biology
+867,Jennifer,Boyd,Other,Senior,0.22,30,Biology
+868,Jermaine,Gordon,Female,Senior,3.2,30,History
+869,William,King,Other,Senior,0.87,29,Biology
+870,Charles,Silva,Other,Junior,2.55,25,Chemistry
+871,Paul,Pugh,Male,Sophomore,3.75,19,Chemistry
+872,David,Gould,Male,Freshman,0.02,18,History
+873,Zachary,Jones,Other,Junior,2.62,21,Psychology
+874,Joshua,Smith,Other,Freshman,1.57,26,Psychology
+875,Christopher,Patterson,Female,Senior,0.89,23,Biology
+876,Curtis,Reyes,Male,Freshman,2.84,23,Computer Science
+877,Angelica,Coleman,Male,Freshman,3.13,20,English
+878,Diane,Tate,Female,Junior,2.07,18,Computer Science
+879,Jennifer,Gross,Male,Senior,1.45,26,Chemistry
+880,Sherri,Moss,Male,Freshman,0.84,26,English
+881,Wayne,Walsh,Other,Junior,0.06,22,Computer Science
+882,Lindsay,Hall,Other,Senior,3.48,20,English
+883,Lynn,Cooper,Other,Sophomore,0.59,23,Business
+884,Jonathan,Martin,Male,Senior,1.86,19,History
+885,William,Ramsey,Female,Senior,1.27,22,History
+886,Angie,Perkins,Other,Sophomore,1.66,21,English
+887,Robert,Gonzalez,Female,Sophomore,3.05,17,History
+888,Corey,Dominguez,Other,Freshman,0.05,22,Mathematics
+889,Elizabeth,Daugherty,Male,Freshman,1.2,17,Psychology
+890,Tammy,Gutierrez,Male,Sophomore,1.85,25,Biology
+891,Bobby,Gonzales,Other,Junior,2.3,26,Business
+892,Kristine,Moore,Male,Sophomore,2.75,29,Psychology
+893,Lori,Wilkinson,Female,Junior,2.0,17,Computer Science
+894,Lisa,Owens,Other,Freshman,2.43,28,English
+895,Krystal,Sanders,Female,Junior,1.19,20,Business
+896,Paige,Charles,Male,Junior,3.0,24,History
+897,Michael,Mitchell,Other,Senior,0.8,28,Biology
+898,Trevor,Cruz,Male,Sophomore,1.08,17,Psychology
+899,Kayla,Lynch,Male,Sophomore,2.91,20,English
+900,Lucas,Garcia,Other,Freshman,1.34,30,Computer Science
+901,Brittany,Cunningham,Other,Sophomore,0.09,23,Mathematics
+902,Shannon,Olson,Female,Freshman,3.41,24,Biology
+903,Stephanie,Blankenship,Other,Freshman,0.54,19,Business
+904,Stephen,Gray,Other,Senior,0.09,21,Chemistry
+905,Robert,Allen,Female,Senior,1.85,29,Business
+906,Sean,Johnson,Female,Senior,2.57,27,Psychology
+907,Bradley,Spears,Male,Junior,1.31,20,Computer Science
+908,Marcus,Ray,Other,Senior,2.92,20,Business
+909,Erica,Brown,Female,Junior,2.13,27,Biology
+910,Christopher,Lang,Other,Senior,2.29,28,Chemistry
+911,Seth,Crane,Male,Freshman,1.08,18,Business
+912,Paul,Nguyen,Male,Senior,0.88,26,History
+913,Bridget,Humphrey,Other,Senior,3.05,18,Mathematics
+914,Julie,Skinner,Other,Sophomore,1.76,24,English
+915,Haley,Brewer,Female,Sophomore,1.41,18,Business
+916,Mary,Kelly,Female,Freshman,1.23,21,Business
+917,Ronald,Meyer,Female,Junior,3.54,24,Chemistry
+918,Karen,Navarro,Female,Senior,2.9,29,Chemistry
+919,James,Lawrence,Female,Senior,3.34,28,Psychology
+920,Nathan,Jackson,Male,Freshman,0.89,25,History
+921,Mark,Price,Female,Junior,1.32,24,Chemistry
+922,Scott,Johnson,Female,Junior,2.17,24,Mathematics
+923,Michael,Maldonado,Female,Junior,2.76,23,Biology
+924,Michael,Aguilar,Female,Junior,3.65,23,History
+925,Benjamin,Jenkins,Female,Freshman,3.39,24,Psychology
+926,Matthew,Smith,Other,Freshman,2.45,17,History
+927,Susan,Evans,Male,Sophomore,2.71,24,Mathematics
+928,Kenneth,Wu,Male,Senior,2.3,18,Chemistry
+929,Christine,Johnson,Female,Freshman,3.34,26,History
+930,Jerome,Lee,Other,Senior,3.67,29,Mathematics
+931,Jenny,Smith,Male,Sophomore,0.98,17,Computer Science
+932,Shaun,Scott,Female,Senior,3.67,26,English
+933,Samantha,Barker,Other,Sophomore,3.7,25,History
+934,Jose,Rivera,Male,Sophomore,1.14,18,Business
+935,Trevor,Patel,Female,Freshman,0.81,18,Mathematics
+936,Bobby,Woodward,Other,Freshman,1.92,26,Biology
+937,Sharon,Freeman,Other,Senior,3.31,28,Biology
+938,Dustin,Pennington,Male,Sophomore,2.09,24,Mathematics
+939,Patricia,Lloyd,Male,Sophomore,0.95,19,Business
+940,Sarah,Thomas,Male,Freshman,2.86,20,Chemistry
+941,Denise,Burgess,Female,Sophomore,1.79,27,Psychology
+942,Jason,Wilson,Male,Senior,2.73,29,English
+943,Kimberly,Caldwell,Male,Senior,0.64,23,History
+944,Amanda,Yates,Male,Senior,0.4,24,English
+945,Justin,Wilson,Female,Senior,2.83,22,History
+946,David,Mcdaniel,Female,Junior,3.59,20,English
+947,Johnathan,Schwartz,Male,Junior,0.75,24,Psychology
+948,Patricia,Macias,Male,Senior,1.7,22,Biology
+949,Sherry,Mcguire,Other,Freshman,3.69,30,English
+950,Darren,Jones,Male,Junior,2.52,27,Mathematics
+951,Brittany,Lawrence,Female,Senior,0.57,30,Biology
+952,Robert,Jordan,Male,Freshman,3.93,27,Chemistry
+953,Linda,Hernandez,Other,Freshman,2.41,28,Psychology
+954,Zachary,Lester,Other,Senior,2.27,20,Mathematics
+955,Carl,Gonzalez,Female,Sophomore,0.14,29,Computer Science
+956,Steven,Thompson,Other,Freshman,1.45,22,Biology
+957,Shannon,Alvarez,Other,Senior,2.72,27,Biology
+958,Robert,Brown,Female,Junior,0.97,23,Biology
+959,Andrew,Miller,Other,Junior,2.78,25,Biology
+960,Brian,Johnson,Male,Junior,3.97,18,English
+961,Wendy,Cohen,Male,Senior,2.25,25,English
+962,Cindy,Hull,Male,Freshman,2.68,29,Computer Science
+963,Crystal,Coleman,Male,Sophomore,3.41,20,Mathematics
+964,Nicholas,Williamson,Female,Sophomore,0.48,22,English
+965,John,Russell,Female,Sophomore,2.75,19,English
+966,Zachary,Nguyen,Female,Sophomore,0.62,25,Chemistry
+967,Lance,Hardy,Other,Senior,3.41,30,Mathematics
+968,Ashley,Johnson,Male,Sophomore,0.3,18,Chemistry
+969,Mary,Kennedy,Male,Junior,0.02,29,Psychology
+970,Nichole,Gordon,Male,Sophomore,1.78,22,Psychology
+971,Amber,Hall,Female,Freshman,1.2,21,Mathematics
+972,Kayla,Tanner,Male,Junior,0.45,23,Chemistry
+973,Victoria,Thompson,Female,Senior,0.53,29,Chemistry
+974,Gregg,Christian,Female,Junior,1.47,25,Chemistry
+975,Brooke,Williams,Male,Sophomore,2.45,21,Biology
+976,Robert,Morales,Female,Freshman,1.05,20,Mathematics
+977,Diana,Cox,Female,Freshman,0.13,24,Mathematics
+978,Scott,Dorsey,Male,Junior,0.09,20,Mathematics
+979,Danielle,Chavez,Other,Freshman,3.51,23,Computer Science
+980,Jose,Maldonado,Female,Sophomore,1.38,20,English
+981,Melissa,Brown,Male,Junior,3.64,21,Psychology
+982,Kimberly,Shaw,Male,Senior,0.28,27,English
+983,Tiffany,Gonzalez,Male,Freshman,0.11,20,Computer Science
+984,Jacob,Ibarra,Male,Sophomore,1.35,29,Computer Science
+985,Seth,Smith,Female,Senior,3.5,19,Mathematics
+986,Bridget,Robbins,Other,Senior,3.33,18,Biology
+987,John,Gonzalez,Other,Junior,1.37,24,Mathematics
+988,Anthony,Parsons,Male,Freshman,1.04,18,History
+989,Tiffany,Rubio,Other,Senior,3.56,19,Mathematics
+990,Matthew,Evans,Other,Freshman,2.14,23,Business
+991,Billy,Juarez,Female,Senior,1.19,22,Chemistry
+992,Abigail,Gonzalez,Male,Senior,2.95,27,History
+993,Stephanie,Hernandez,Male,Senior,3.46,19,History
+994,Dustin,Campbell,Female,Freshman,0.17,23,Biology
+995,Joshua,Pierce,Other,Sophomore,3.17,23,Biology
+996,Valerie,Shelton,Female,Freshman,2.22,21,Business
+997,Michele,Matthews,Female,Freshman,3.7,23,English
+998,Deborah,Thomas,Male,Sophomore,3.53,28,Biology
+999,Lauren,Stout,Female,Freshman,3.38,19,Mathematics
+1000,Kelly,Patrick,Female,Sophomore,3.5,26,Mathematics

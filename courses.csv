@@ -1,0 +1,21 @@
+course_id,course_name,department,course_credits
+1,Intro to Psychology,Psychology,3
+2,Calculus I,Mathematics,4
+3,Calculus II,Mathematics,4
+4,Biology I,Biology,4
+5,Organic Chemistry,Chemistry,4
+6,Microeconomics,Economics,3
+7,Macroeconomics,Economics,3
+8,English Composition,English,3
+9,World History,History,3
+10,Computer Science I,Computer Science,4
+11,Data Structures,Computer Science,4
+12,Algorithms,Computer Science,4
+13,Physics I,Physics,4
+14,Physics II,Physics,4
+15,Statistics,Mathematics,3
+16,Art Appreciation,Arts,3
+17,Music Theory,Music,3
+18,Sociology 101,Sociology,3
+19,Marketing Principles,Business,3
+20,Finance 101,Business,3
